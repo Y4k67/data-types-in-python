@@ -1,0 +1,5 @@
+print("clara",(25))
+print("Hussein",(3))
+print("zlatan",(17))
+print("frank",(29))
+print("george",(9))
